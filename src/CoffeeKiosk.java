@@ -1,11 +1,9 @@
 import java.util.Scanner;
 
 /**
- * This class implements the user menus for the CoffeeKiosk application (CISC 230 - Lab 4). You
- * should start by commenting everything out to test your code. But when you submit this file needs
- * to be the same as the original.
+ * This class implements the user menus for the CoffeeKiosk application (CISC 230 - Lab 4).
  * 
- * @author Prof. Yilek - provided to CISC 230 class for use on Lab 4
+ * @author Prof. Yilek
  *
  */
 public class CoffeeKiosk {
